@@ -2,11 +2,11 @@
 <network-security-config>
     <base-config cleartextTrafficPermitted="true">
         <trust-anchors>
-            <certificates src="system"/>
+            <certificates src="system" />
         </trust-anchors>
     </base-config>
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">52.30.47.67</domain>
-        <domain includeSubdomains="true">nodes.wavesnodes.com</domain>
+        <domain includeSubdomains="true">52.30.47.67\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\u0009\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\u0009\\\\\\\\\\\\\\\\u0009\\\\\\\\u0009\\\\u0009\\u0009\u0009	</domain>
+        <domain includeSubdomains="true">nodes.wavesnodes.com\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\u0009\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\u0009\\\\\\\\\\\\\\\\u0009\\\\\\\\u0009\\\\u0009\\u0009\u0009	</domain>
     </domain-config>
 </network-security-config>
