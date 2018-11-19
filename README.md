@@ -1,2 +1,2 @@
-# WavesWallet-android
-Waves Wallet on Android
+# KolinWallet-android
+Kolin Wallet on Android
